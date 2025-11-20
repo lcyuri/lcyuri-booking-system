@@ -1,0 +1,47 @@
+[
+  {
+    "id": "srv-201",
+    "centerId": "center2",
+    "name": "Classic Manicure",
+    "description": "Nail shaping, cuticle care, gentle exfoliation, and polish application.",
+    "duration": 30,
+    "price": 35,
+    "category": "Manicure"
+  },
+  {
+    "id": "srv-202",
+    "centerId": "center2",
+    "name": "Gel Manicure",
+    "description": "Long-lasting gel polish manicure with nail shaping and cuticle treatment.",
+    "duration": 45,
+    "price": 55,
+    "category": "Manicure"
+  },
+  {
+    "id": "srv-203",
+    "centerId": "center2",
+    "name": "Classic Pedicure",
+    "description": "Relaxing pedicure including cuticle care, callus removal, exfoliation, and polish.",
+    "duration": 45,
+    "price": 50,
+    "category": "Pedicure"
+  },
+  {
+    "id": "srv-204",
+    "centerId": "center2",
+    "name": "Spa Pedicure",
+    "description": "Luxurious pedicure with foot soak, scrub, mask, massage, and gel or classic polish.",
+    "duration": 60,
+    "price": 75,
+    "category": "Pedicure"
+  },
+  {
+    "id": "srv-205",
+    "centerId": "center2",
+    "name": "Nail Art Design",
+    "description": "Customized nail art with detailed, hand-painted designs or embellishments.",
+    "duration": 30,
+    "price": 40,
+    "category": "Nail Art"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "srv-101",
+    "centerId": "center1",
+    "name": "Haircut & Styling",
+    "description": "Professional haircut with shampoo, conditioning, and blow-dry styling.",
+    "duration": 45,
+    "price": 60,
+    "category": "Hair"
+  },
+  {
+    "id": "srv-102",
+    "centerId": "center1",
+    "name": "Hair Coloring",
+    "description": "Full hair coloring with premium products. Includes consultation.",
+    "duration": 120,
+    "price": 180,
+    "category": "Hair"
+  },
+  {
+    "id": "srv-103",
+    "centerId": "center1",
+    "name": "Beard Grooming",
+    "description": "Beard trim, alignment, and hydration treatment.",
+    "duration": 30,
+    "price": 35,
+    "category": "Hair"
+  },
+  {
+    "id": "srv-104",
+    "centerId": "center1",
+    "name": "Relaxing Massage",
+    "description": "Full-body Swedish massage focused on relaxation and muscle recovery.",
+    "duration": 60,
+    "price": 120,
+    "category": "Wellness"
+  },
+  {
+    "id": "srv-105",
+    "centerId": "center1",
+    "name": "Deep Tissue Massage",
+    "description": "Intense massage to release chronic tension in deeper muscle layers.",
+    "duration": 75,
+    "price": 150,
+    "category": "Wellness"
+  }
+]

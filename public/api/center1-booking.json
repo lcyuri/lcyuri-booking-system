@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bkg-001",
+    "serviceId": "srv-101",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "date": "2025-01-18",
+    "time": "10:00 AM"
+  },
+  {
+    "id": "bkg-003",
+    "serviceId": "srv-102",
+    "name": "Carla Mendes",
+    "email": "carla@example.com",
+    "date": "2025-01-18",
+    "time": "09:00 AM"
+  },
+  {
+    "id": "bkg-006",
+    "serviceId": "srv-103",
+    "name": "Felipe Torres",
+    "email": "felipe@example.com",
+    "date": "2025-01-18",
+    "time": "4:00 PM"
+  },
+  {
+    "id": "bkg-008",
+    "serviceId": "srv-104",
+    "name": "Henrique Duarte",
+    "email": "henrique@example.com",
+    "date": "2025-01-19",
+    "time": "3:00 PM"
+  },
+  {
+    "id": "bkg-010",
+    "serviceId": "srv-105",
+    "name": "Jorge Martins",
+    "email": "jorge@example.com",
+    "date": "2025-01-19",
+    "time": "5:00 PM"
+  }
+]
